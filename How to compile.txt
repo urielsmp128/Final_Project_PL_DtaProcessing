@@ -1,0 +1,8 @@
+1. In the terminal and located in teh directory where the project is located run the next command: iex Uriel_Madrigal_pf.ex
+
+2. Once in the iex shell run the command Hw.main_file("Input_file1.csv", "results.csv") whre input file is the input file with your data
+and output file the name you want to give to the file with the results
+
+3. Once running the program you will need a username = urielsm and a password = 1234 to acces
+
+4. The you will have multiple options to select entering the number of the option seleceted when asked in the program.

@@ -1,0 +1,5 @@
+ID_PRODUCTO,DESCRIPCION,CANTIDAD,VALOR,FECHA,ACCION
+12,Tornillo Percutor,10,$70 ,22/07/2022,E
+12,Tornillo Percutor,7,$70 ,23/07/2023,E
+12,Tornillo Percutor,3,$70 ,24/07/2024,E
+12,Tornillo Percutor,50,$75 ,25/07/2025,S
